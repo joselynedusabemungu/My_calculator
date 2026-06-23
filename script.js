@@ -1,4 +1,4 @@
-// 1. Select the input screen and all buttons
+//the input screen and all buttons
 const screen = document.getElementById("result");
 const buttons = document.querySelectorAll("button");
 
